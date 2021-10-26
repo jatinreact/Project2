@@ -1,0 +1,12 @@
+.user_profile {
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  background-color: lightgray;
+}
+.user_image_margin{
+    margin-left: 40%;
+}
+.profile_Edit{
+    width: 80px;
+}
